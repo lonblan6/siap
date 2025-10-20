@@ -1,0 +1,4 @@
+[28-Jan-2025 02:36:55 UTC] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home/gscolomb/public_html/SIAPSESION/includes/user.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/gscolomb/public_html/SIAPSESION/includes/user.php on line 4

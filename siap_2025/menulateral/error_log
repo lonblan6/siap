@@ -1,0 +1,24 @@
+[14-Feb-2025 22:29:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/gscolomb/public_html/SIAPSESION/menulateral/index.php:321
+Stack trace:
+#0 {main}
+  thrown in /home/gscolomb/public_html/SIAPSESION/menulateral/index.php on line 321
+[14-Feb-2025 22:31:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/gscolomb/public_html/SIAPSESION/menulateral/index.php:321
+Stack trace:
+#0 {main}
+  thrown in /home/gscolomb/public_html/SIAPSESION/menulateral/index.php on line 321
+[14-Feb-2025 22:33:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/gscolomb/public_html/SIAPSESION/menulateral/index.php:321
+Stack trace:
+#0 {main}
+  thrown in /home/gscolomb/public_html/SIAPSESION/menulateral/index.php on line 321
+[14-Feb-2025 22:34:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/gscolomb/public_html/SIAPSESION/menulateral/index.php:321
+Stack trace:
+#0 {main}
+  thrown in /home/gscolomb/public_html/SIAPSESION/menulateral/index.php on line 321
+[18-Oct-2025 17:09:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/gscolomb/public_html/SIAPSESION/menulateral/index.php:122
+Stack trace:
+#0 {main}
+  thrown in /home/gscolomb/public_html/SIAPSESION/menulateral/index.php on line 122
+[19-Oct-2025 03:27:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNombre() on null in /home/gscolomb/public_html/SIAPSESION/menulateral/index.php:122
+Stack trace:
+#0 {main}
+  thrown in /home/gscolomb/public_html/SIAPSESION/menulateral/index.php on line 122
